@@ -18,21 +18,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description>migration test</short_description>
         <source>x_usaa3_test_mig</source>
-        <store_correlation_id>REPOAPP0000246772</store_correlation_id>
+        <store_correlation_id>REPOAPP0000247246</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>SJG7188</sys_created_by>
         <sys_created_on>2020-06-24 21:40:14</sys_created_on>
         <sys_id>74a959e2dba9d45840242736059619cc</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_updated_by>SJG7188</sys_updated_by>
-        <sys_updated_on>2020-06-25 15:10:08</sys_updated_on>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:17:55</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.2</version>
+        <version>1.0.3</version>
     </sys_app>
 </record_update>
